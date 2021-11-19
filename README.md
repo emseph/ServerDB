@@ -1,2 +1,2 @@
 # ServerDB
- Java App with UI with basic MySQL Connections
+GUI coded in Java with basic MySQL Connections
